@@ -1,0 +1,14 @@
+#TitleName{
+    background-color: red;
+    text-align: center;
+    color: white
+}
+#table{
+    align-content: center;
+    background: rgba(0,0,0,0.8);
+    color: white;
+}
+p{
+    color: black;
+    background-color: white;
+}
